@@ -78,7 +78,7 @@ We can use two different approaches when comparing with different targets:
 ### Comparing Safety Rating
 <br> As safety rating tends to be categorical data, we can sepcify the range of safety rating and calculate the frequency of different ranges. For example "lower than 1", "between 1 to 2", "between 2 to 3", "between 3 to 4", "greater than 4". Based on the actual data, we can define the granularity of the range and calculate the frequency based on the defined ranges.
  
-- Use <strong>chi-squared test</strong> to compare the distribution of frequencies between MecharCar's safety rating and competition's.
+- Use <strong>chi-squared test</strong> to compare the distribution of frequencies between MechaCar's safety rating and competition's.
 <br> Hypothese as follows:
 <br> H0: There is no difference in frequency distribution between both groups.
 <br> Ha: There is a difference in frequency distribution between both groups.
